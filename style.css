@@ -1,0 +1,41 @@
+
+td,th{
+
+    border:2px solid;
+    border-collapse:collapse;
+  }
+table{
+  box-shadow: 10px 10px 5px #aaaaaa;
+    border:2px solid;
+    border-collapse:collapse;
+}
+
+#a1{
+  text-align:center;
+  background : #B6D1D1;
+  padding: 10px;
+}
+input{
+  border:none;
+}
+body{
+  
+  background:#B6D1D1;
+  padding:10px;
+}
+#a2
+{
+  padding:10px;
+  background:White;
+}
+#p1
+{
+  text-align:center;
+  background:White;
+}
+#h1
+{
+  text-align:center;
+  background:White;
+}
+
